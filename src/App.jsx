@@ -450,7 +450,7 @@ const NephrologyScheduler = () => {
         <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
           <div className="flex items-center gap-3 mb-4">
             <Calendar className="text-indigo-600" size={32} />
-            <h1 className="text-3xl font-bold text-gray-800">Nephrology Fellowship Scheduler</h1>
+            <h1 className="text-3xl font-bold text-gray-800">UNC Nephrology Fellowship Scheduler</h1>
           </div>
           
           <div className="mb-4 flex items-center gap-3">
